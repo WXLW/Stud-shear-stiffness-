@@ -101,7 +101,7 @@ def run():
     st.image(image, width=1050)#,use_column_width=False)
 
 
-    image1 = Image.open('G:\Jupyter\Lin.png')
+    image1 = Image.open('Lin.png')
     st.subheader('Modified Lin equation')
     st.image(image1, width=250)
     
